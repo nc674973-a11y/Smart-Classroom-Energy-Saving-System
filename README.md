@@ -43,4 +43,4 @@ The Arduino source code is available in "SmartClassroom.ino".
 
 Project Type
 
-College Mini Project – B.Tech Computer Science and Engineering
+College Mini Project – B.Tech Computer Science and Engineering. 
